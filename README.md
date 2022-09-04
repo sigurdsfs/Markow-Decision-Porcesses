@@ -7,7 +7,7 @@
    - Given these mathematical recurrences, we produced algorithms: policy evaluation computes the value of
 a policy, and value iteration computes the optimal policy.
 
-2) Solving MDPs with unknown transistion function $T(s,a,s')$ & reward functions $r(s,a,s')$.
+2) Solving MDPs with unknown transistion function $T(s,a,s')$ & reward functions $V(s,a,s')$.
    - Monte Carlo Method.
    - Bootstrapping.
 
