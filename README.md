@@ -1,1 +1,6 @@
-# Markow-Decision-Porcesses
+# Markow-Decision-Processes
+
+### Project: 
+\- Solving Markow Decision Processes model
+ 
+   
