@@ -2,7 +2,7 @@
 
 ### Project: 
 1) Solving Markow Decision Processes (MDP) model
-   - Using the recurrences relating the value V_π(s) and Q-value Q_π(s, a), which represents the expected
+   - Using the recurrences relating the value $V_π(s)$ and Q-value $Q_π(s, a)$, which represents the expected
      utility from starting at the corresponding nodes in the MDP graph.
    - Given these mathematical recurrences, we produced algorithms: policy evaluation computes the value of
 a policy, and value iteration computes the optimal policy.
